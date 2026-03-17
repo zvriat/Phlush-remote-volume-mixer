@@ -1,45 +1,14 @@
 # Phlush-remote-volume-mixer
-An Open-source remote volume mixer for linux GNOME-shell distros
+An Open-source remote volume mixer for linux distros.
 
+🚀 - The most powerfull, fast remote controled volume mixer
 
-dfg
-d
-fgdf
-g
-df
-g
-df
-g
-dfg
-dfg
-d
-fg
-
-dfg
-
-df
-g
-df
-g
-df
-g
-df
-g
-
-dfg
-
-df
-gdf
-gdf
-g
-d
-fg
-
-df
-g
-d
-fg
-df
-g
-
-dfg
+🔗 - Compatible with most linux distros
+     FULL LIST : 
+     Fedora Linux
+     Ubuntu
+     Debian
+     Linux Mint
+     Pop!_OS
+     Zorin OS
+     elementary OS
